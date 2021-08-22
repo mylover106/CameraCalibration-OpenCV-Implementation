@@ -30,7 +30,7 @@ matplotlib
 ```
 
 ## Run
-to run an demo, you can use command line as follow,
+to run the demo, you can use command line as follow,
 
 ```
 python calibrate_interactive.py
